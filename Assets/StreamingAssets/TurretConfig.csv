@@ -1,0 +1,7 @@
+﻿TurretName,TurretType,Range,FireRate,TurnSpeed,DamageOverTime,SlowAmount
+Standard_Turret,1,15,1,10,0,0
+Missile_Turret,2,20,0.3,10,0,0
+Laser_Turret,3,10,1,10,30,0.25
+Standard_Turret_Upgraded,4,20,2,10,0,0
+Missile_Turret_Upgraded,5,25,0.45,10,0,0
+Laser_Turret_Upgraded,6,15,1,10,40,0.5

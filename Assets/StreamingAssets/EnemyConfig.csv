@@ -1,0 +1,4 @@
+﻿EnemyName,EnemyType,Health,Speed,GainMoney
+Standard_Enemy,1,300,10,25
+Fast_Enemy,2,100,25,40
+Tough_Enemy,3,900,8,60

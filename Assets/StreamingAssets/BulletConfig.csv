@@ -1,0 +1,5 @@
+﻿BulletName,BulletType,Damage,Speed,ExplosionRadius
+Standard_Bullet,1,50,50,0
+Upgraded_Bullet,2,70,55,0
+Missile,3,100,30,5
+Upgraded_Missile,4,150,35,7
